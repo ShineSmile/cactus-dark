@@ -2,17 +2,17 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/probberechts
+  Projects: https://github.com/ShineSmile
 
-projects_url: http://github.com/probberechts
+projects_url: https://github.com/ShineSmile
 
 customize:
     gravatar:
-        email: 
+        email: ShineSmile@outlook.com
     logo:
         enabled: true
-        width: 50
-        height: 50
+        width: 80
+        height: 80
         url: /images/logo.png
         gravatar: false
     favicon: 
@@ -21,17 +21,17 @@ customize:
         url: /images/favicon.ico
         gravatar: false
       android:
-        url: /images/favicon-192x192.png
+        url: /images/favicon.png
         gravator: false
       apple:
-        url: /images/apple-touch-icon.png
+        url: /images/favicon.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
-        twitter: /
-        facebook: /
-        linkedin: /
-    post_count: 5
+        github: https://github.com/ShineSmile
+    #    twitter: /
+    #    facebook: /
+    #    linkedin: /
+    post_count: 10
     highlight: rainbow
 
 # RSS
@@ -40,7 +40,7 @@ rss: false
 # Plugins
 plugins:
     disqus_shortname: # Disqus Comments Shortname
-    google_analytics: UA-86660611-1 # enter the tracking ID for your Google Analytics
+    google_analytics: # enter the tracking ID for your Google Analytics
 
 # Miscellaneous
 miscellaneous:
