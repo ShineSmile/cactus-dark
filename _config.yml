@@ -31,7 +31,8 @@ customize:
     #    twitter: /
     #    facebook: /
     #    linkedin: /
-    post_count: 10
+    show_all_posts: false
+    post_count: 5
     highlight: rainbow
 
 # RSS
