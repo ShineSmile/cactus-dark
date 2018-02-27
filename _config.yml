@@ -11,8 +11,8 @@ customize:
         email: ShineSmile@outlook.com
     logo:
         enabled: true
-        width: 80
-        height: 80
+        width: 50
+        height: 50
         url: /images/logo.png
         gravatar: false
     favicon: 
