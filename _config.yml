@@ -1,8 +1,8 @@
 nav:
-  Home: /
-  About: /about/
-  Writing: /archives/
-  Projects: https://github.com/ShineSmile
+  home: /
+  about: /about/
+  articles: /archives/
+  projects: https://github.com/ShineSmile
 
 projects_url: https://github.com/ShineSmile
 
