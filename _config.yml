@@ -26,9 +26,9 @@ nav:
 # only 'mail' is an exception.
 social_links:
   github: https://github.com/ShineSmile
-  twitter: /
-  facebook: /
-  linkedin: /
+#  twitter: /
+#  facebook: /
+#  linkedin: /
   mail: mailto:ShineSmile@outlook.com
 
 # Customize the overview with displaying a tagcloud on the index page.
@@ -76,10 +76,10 @@ favicon:
     url: /images/favicon.ico
     gravatar: false
   android:
-    url: /images/favicon-192x192.png
+    url: /images/favicon.ico
     gravatar: false
   apple:
-    url: /images/apple-touch-icon.png
+    url: /images/favicon.ico
     gravatar: false
 
 # The color scheme that should be used to highlight codeblocks.
